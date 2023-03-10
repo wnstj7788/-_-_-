@@ -70,11 +70,11 @@ contents: 인공지능 모델로 제작된 웹 사이트에 자신의 얼굴을 
 
 
 ### 구현화면
-
-<img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled.png" width="200" height="400"/>
-<img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled 1.png" width="200" height="400"/>
-<img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled 2.png" width="200" height="400"/>
-<img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled 3.png" width="200" height="400"/>
-
+<p align="center">
+ <img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled.png" width="200" height="400"/>
+ <img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled 1.png" width="200" height="400"/>
+ <img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled 2.png" width="200" height="400"/>
+ <img src ="신공지능 얼굴테스트 96ccf394a8234b28b34fd4c8a22c8d38/Untitled 3.png" width="200" height="400"/>
+</p>
 
 
