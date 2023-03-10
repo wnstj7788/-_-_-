@@ -1,7 +1,9 @@
 # 신공지능 얼굴테스트
 
 Tags: JS, Python, React Native, Web, 개인프로젝트
+<br/>
 contents: 인공지능 모델로 제작된 웹 사이트에 자신의 얼굴을 넣으면 평가해주는 웹 사이트 제작
+<br/>
 기간: 2020/06/04 → 2020/06/11
 
 ### 🔗 Github
@@ -68,6 +70,12 @@ contents: 인공지능 모델로 제작된 웹 사이트에 자신의 얼굴을 
 
 
 ### 구현화면
+
+<img src ="%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%2096ccf394a8234b28b34fd4c8a22c8d38/Untitled.png" width="200" height="400"/>
+<img src ="%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%2096ccf394a8234b28b34fd4c8a22c8d38/Untitled%201.png" width="200" height="400"/>
+<img src ="%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%2096ccf394a8234b28b34fd4c8a22c8d38/Untitled%202.png" width="200" height="400"/>
+<img src ="%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%2096ccf394a8234b28b34fd4c8a22c8d38/Untitled%203.png" width="200" height="400"/>
+
 
 ![Untitled](%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%AE%E1%86%AF%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%2096ccf394a8234b28b34fd4c8a22c8d38/Untitled.png)
 
