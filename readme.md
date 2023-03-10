@@ -10,7 +10,7 @@ contents: 인공지능 모델로 제작된 웹 사이트에 자신의 얼굴을 
 
 [https://github.com/wnstj7788/AI_facetest_web_making](https://github.com/wnstj7788/AI_facetest_web_making)
 
-### 🔗 page
+### 🔗기체험해보기 page
 
 [https://godface.netlify.app/](https://godface.netlify.app/)
 
